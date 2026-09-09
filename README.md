@@ -39,37 +39,3 @@ Estudante dedicado, interessado em tecnologia e em busca da primeira oportunidad
 
 
 
-ANEXO 3.1 - Marca Pessoal no meu currículo
-MODELO PARA IMPRESSÃO E PREENCHIMENTO
-
-(NOME) 
-(ENDEREÇO)
-(TELEFONE)
-(EMAIL)
-
-OBJETIVO
--
--
-
-QUALIFICAÇÕES
-–
--
-
-FORMAÇÃO ACADÊMICA
--Ensino Médio Incompleto
--Ensino Fundamental Completo
-EXPERIÊNCIA PROFISSIONAL
-(LOCAL)
--
--
-(LOCAL)
--
-IDIOMAS E INFORMÁTICA
--
-Nível:
--
-Nível:
--
-Nível:
-OUTRAS INFORMAÇÕES
-
