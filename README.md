@@ -1,5 +1,7 @@
 CURRÍCULO
-NOME: Willian Geovani de Matos 
+
+NOME: Willian Geovani de Matos
+
 IDADE: 25
 CIDADE: Belo Horizonte 
 TELEFONE: 31 999999999
