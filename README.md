@@ -1,55 +1,53 @@
-CURRÍCULO
+📄 CURRÍCULO
+👤 Willian Geovani de Matos
 
-NOME: Willian Geovani de Matos
+📍 Cidade: Belo Horizonte – MG
+🎂 Idade: 26 anos
+📞 Telefone: (31) 99999-9999
+📧 E-mail: willian.3907109@aluno.mg.gov.br
 
-IDADE: 26
+🎯 OBJETIVO PROFISSIONAL
 
-CIDADE: Belo Horizonte 
+Busco minha primeira oportunidade no mercado de trabalho, com o objetivo de colocar em prática meus conhecimentos, desenvolver novas habilidades e adquirir experiência profissional.
 
-TELEFONE: 31 999999999
+Tenho interesse em aprender, crescer profissionalmente e contribuir com responsabilidade, dedicação e comprometimento para a empresa.
 
-E-MAIL: willian.3907109@aluno.mg.gov.br
+🎓 FORMAÇÃO ACADÊMICA
+📚 Ensino Médio – 3º ano
 
-OBJETIVO
-Busco minha primeira oportunidade no mercado de trabalho, com o objetivo de colocar em prática meus conhecimentos, desenvolver novas habilidades e adquirir experiência profissional. Tenho interesse em aprender, crescer profissionalmente e contribuir com responsabilidade e dedicação para a empresa.
-
-FORMAÇÃO ACADÊMICA
-
-Ensino Médio – 3º ano
-Escola Estadual Geraldo Jardim Linhares 
-Situação: Cursando
-
-Curso Técnico em Informática
 Escola Estadual Geraldo Jardim Linhares
-Situação: Cursando
+🔹 Situação: Cursando
 
-EXPERIÊNCIA PROFISSIONAL
-Em busca da primeira oportunidade profissional.
-Ainda não possuo experiência profissional formal, mas tenho interesse em aprender novas atividades, desenvolver meus conhecimentos e adquirir experiência no ambiente de trabalho.
+💻 Curso Técnico em Informática
 
-HABILIDADES
-Conhecimentos básicos de informática;
-Interesse por tecnologia e computadores;
-Facilidade para aprender novas atividades;
-Organização e responsabilidade;
-Comprometimento com as tarefas;
-Capacidade de seguir orientações;
+Escola Estadual Geraldo Jardim Linhares
+🔹 Situação: Cursando
 
-Trabalho em equipe;
-Boa convivência no ambiente escolar e profissional;
-Vontade de aprender e crescer profissionalmente.
+💼 EXPERIÊNCIA PROFISSIONAL
 
-CURSOS E CONHECIMENTOS
-Curso Técnico em Informática – cursando;
-Conhecimentos em informática;
-[Word / Excel / PowerPoint, se souber];
-[Programação, manutenção de computadores, redes ou outros conhecimentos do curso, se aplicável].
+Primeira oportunidade profissional
 
-INFORMAÇÕES COMPLEMENTARES
-Estudante dedicado, interessado em tecnologia e em busca da primeira oportunidade para desenvolver seus conhecimentos e adquirir experiência profissional.
+Ainda não possuo experiência profissional formal. Tenho, porém, interesse em aprender novas atividades, desenvolver meus conhecimentos e adquirir experiência no ambiente de trabalho.
 
+⭐ HABILIDADES
+💻 Conhecimentos básicos de informática;
+🖥️ Interesse por tecnologia e computadores;
+📖 Facilidade para aprender novas atividades;
+📋 Organização e responsabilidade;
+✅ Comprometimento com as tarefas;
+👨‍💼 Capacidade de seguir orientações;
+🤝 Trabalho em equipe;
+😊 Boa convivência no ambiente escolar e profissional;
+🚀 Vontade de aprender e crescer profissionalmente.
+📜 CURSOS E CONHECIMENTOS
+💻 Curso Técnico em Informática – cursando;
+🖥️ Conhecimentos básicos de informática;
+📊 Conhecimentos em Word, Excel e PowerPoint, caso aplicável;
+👨‍💻 Noções de programação;
+🔧 Noções de manutenção de computadores;
+🌐 Noções de redes de computadores.
+ℹ️ INFORMAÇÕES COMPLEMENTARES
 
+Estudante dedicado, interessado em tecnologia e informática, em busca da primeira oportunidade profissional para desenvolver seus conhecimentos, adquirir experiência e contribuir de forma responsável, comprometida e colaborativa com a equipe.
 
-
-
-
+🚀 DISPONÍVEL PARA APRENDER E CRESCER PROFISSIONALMENTE!
